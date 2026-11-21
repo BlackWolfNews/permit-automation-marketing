@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "skills": {
+    "internal-linking": {
+      "source": "Illyism/seo-skills",
+      "commit": "a158c36a1c2c84a44ee7a1ae69c009caf73e1a35",
+      "sourceType": "github",
+      "skillPath": "seo/internal-linking/SKILL.md",
+      "computedHash": "0f4320f545264414447f0b438cd419c3f0a72e686439f965bd546421b3d87e4b",
+      "installMode": "copy"
+    },
+    "seo-roast": {
+      "source": "Illyism/seo-skills",
+      "commit": "a158c36a1c2c84a44ee7a1ae69c009caf73e1a35",
+      "sourceType": "github",
+      "skillPath": "seo/seo-roast/SKILL.md",
+      "computedHash": "3e2d1da7b95e9a5f25e31ec3e159fbb99f93618c2ca5ae8cda2c1a03fbddb1d6",
+      "installMode": "copy"
+    },
+    "vs-and-alternatives": {
+      "source": "Illyism/seo-skills",
+      "commit": "a158c36a1c2c84a44ee7a1ae69c009caf73e1a35",
+      "sourceType": "github",
+      "skillPath": "seo/vs-and-alternatives/SKILL.md",
+      "computedHash": "45474ba263769fc66618c475ba94ddb51e1eabe9f6e74ed3b0c94af11327b476",
+      "installMode": "copy"
+    }
+  }
+}
