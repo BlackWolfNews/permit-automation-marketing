@@ -2,12 +2,14 @@
 
 This repository is the public marketing funnel for Permit Automation Suite. It is separate from the application repositories `permit-automation-suite`, `permit-estimator`, and `carrier-vehicle-lookup`.
 
-The lite pages are not built yet. Planned pages:
+Four lite pages, one search intent each. They are static HTML. They do not run a tool.
 
-- Permit structures / routing rules
-- Night travel
-- Escorts and pilot cars
-- Holiday restrictions
+- [Permit structures / routing rules](permit-structures/index.html)
+- [Night travel](night-travel/index.html)
+- [Escorts and pilot cars](escorts-and-pilot-cars/index.html)
+- [Holiday restrictions](holiday-restrictions/index.html)
+
+Open [index.html](index.html) for the same four pages.
 
 ## Live tools
 
